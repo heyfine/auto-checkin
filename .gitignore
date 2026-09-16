@@ -1,0 +1,13 @@
+node_modules/
+__pycache__/
+*.pyc
+
+# 敏感运行时数据（含密码/token，勿外传）
+checkin_auth.json
+checkin_tasks.json
+checkin_panel.log
+stderr.log
+
+# 内部开发文档（不公开）
+AGENTS.md
+docs/
