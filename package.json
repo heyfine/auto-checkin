@@ -1,0 +1,8 @@
+{
+  "name": "auto-checkin",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sync": "node scripts/sync-repos.mjs"
+  }
+}
